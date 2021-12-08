@@ -1,0 +1,27 @@
+LOCUS       New_DNA                  999 bp ds-DNA     linear       01-APR-2021
+DEFINITION  .
+ACCESSION   
+VERSION     
+SOURCE      .
+  ORGANISM  .
+COMMENT     
+COMMENT     ApEinfo:methylated:1
+ORIGIN
+        1 cttctccgtt ctacctcaat atatcgccca tgtcccacgg atcagacaat tctcagatta
+       61 atacagtcat cattaattcg aagaaattgc cctcaaatca agcagacata agtttaaaaa
+      121 actcttctgg ggctgctata aaaattgtta attccctttc acacaagaag aaagagaaca
+      181 caaacgttaa taatgcccaa aaagaccccc tctcactcac caatactact gcaagcactt
+      241 gtggcgccaa aagcagcatc tcagagggga aattgtcttc tcctccgtcc acctcacaca
+      301 catatgaggg gaaattactc acaaaactta ctcacacaca cacagacttt agaggcgcca
+      361 aaacgagcga tgcaatggga agtttcccct ctctctcgca cagcgacaat agcatagaga
+      421 aaaatctgag ttcttccacc aaaattggac caaacgcttc ttcccctcct tctcatgcac
+      481 acactcacac tagcaaatcc actgatataa gcttagaaag ccgctcaaaa catcccgcgc
+      541 ttgccaatac ggacgcacgc tctataaaag ccaatgctaa tgacaatggg gaaattttct
+      601 cctcacttat acaaattgac gaacgcaagc aagaggaaag gccttgcaca actatcaacg
+      661 ctttttggtc tatttttaaa cccaagccgg acgttactaa actaagtcta aagaggaaac
+      721 ccaccaatcc cactaaaaac actgggaaaa aatgcatctc ccctcataaa aagagcgctt
+      781 atttatgccc ttccgctcag gatgatttaa atttaaattt aaaccccaaa tctagcgcca
+      841 agcccactgt ggtgaattta ccagctgccc gcatcctaag ccggcctgca gccaagcggg
+      901 atttatttaa atcatcatcc tcccgaagcc cagacgagca gcctatgagt ttttcggaag
+      961 tggtcgctgg cacgggttca atttttgcgg caccctgtg  
+//
